@@ -1,6 +1,6 @@
 **УСРС 1. Работа с репозиторием на GitHub** 
 
-** Task: https://github.com/volhahedranovich/poit
+**Task: https://github.com/volhahedranovich/poit
 
 * Работа в RStudio: ![image](https://user-images.githubusercontent.com/49041633/138925035-79afbd3f-4e90-4ba8-8760-df929b53af3b.png)
 * Выполнение кода  start.R: ![image](https://user-images.githubusercontent.com/49041633/138925141-53208400-01b9-46cc-9cb8-bd9a767d6cee.png)
