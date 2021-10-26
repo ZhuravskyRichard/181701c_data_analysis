@@ -1,5 +1,3 @@
-# Instructions for self-study activities
-
 **УСРС 1. Работа с репозиторием на GitHub** 
 
 * Task: 
